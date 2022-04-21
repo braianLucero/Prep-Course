@@ -1,1 +1,30 @@
-// variable es en donde nosotros podamos guardar un valor y la podamos cambiar las veces que queramos 
+
+// ========
+// variable
+// ========
+// * Una variable es como un vaso en donde nosotros podremos guardar valores 
+// - var nombre = 'brian' en este caso yo estoy guardando dentro de mi vaso llamado nombre el valor Brian 
+// - Una variable como lo dice puede variar las veces que  queramos 
+
+// ======
+// string
+// ======
+// * un string es una sucesion de caracteres   ('...') tiene que ir entre comillas lo usamos mas que nada cuando escribimos palabras
+
+// ===============================
+// Funciones (argumentos, `return`)
+// ===============================
+// * function calcula el valor () conjunto de instrucciones 
+// - argumentos es el valor principal 
+// - return puede devolver un resultado si se introduce la sentencia return resultado; donde resultado es aquello que queremos devolver (normalmente una variable que contiene un valor numérico, de texto o booleano
+
+
+// =================
+// Declaraciones `if`
+// =================
+// * Es para tomar decisiones este evaluá básicamente una operación lógica, es decir una expresión que de como resultado True o False , y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
+
+// ==================================
+// Valores booleanos (`true`, `false`)
+// ==================================
+// *Una variable booleana es una variable que sólo puede tomar dos posibles valores: True (verdadero) o False (falso) , en general los elementos nulos o vacíos se consideran False y el resto se consideran True.
