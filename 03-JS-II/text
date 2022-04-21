@@ -1,0 +1,18 @@
+// ====
+// `for`
+// ==== 
+// * for es un bucle que  se utiliza para repetir una o más instrucciones un determinado número de veces.
+//  lo usamos cuando  sabemos seguro el número de veces que queremos que se ejecute
+
+// =============
+// '&&' '||' '!' 
+// =============
+// AND   Y   &&
+//  OR    O   ||
+//  NOT   NO  !
+
+//* Operadores logicos Los operadores lógicos se suelen utilizar con valores booleanos (valores que 
+// devuelven true o false)
+//- &&  devuelve true si ambos operandos son true y devuelven false de lo contrario
+//- ||  determinara si una de las expresiones es true 
+//- !   devolvera el valor booleano opuesto de lo que se le pasa 
