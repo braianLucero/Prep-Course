@@ -1,0 +1,15 @@
+// Objetos
+//	* Propiedades
+//	* Métodos
+//	* Bucle `for…in`
+//	* Notación de puntos vs notación de corchetes
+//
+      //  - Una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
+
+      //  - Los métodos sirven para hacer acciones como una ventana emergente, modificar las propiedades de un objeto, añadir elementos a una lista, quitarlos, transformar un string en un número entero o decimal,
+
+        //- El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces.
+
+        //- propiedad debe ser un identificador válido de JavaScript, esto es, una secuencia alfanumérica de caracteres, incluyendo también el guión bajo (" _ ") y el signo dolar (" $ "), que no puede comenzar por un número. Por ejemplo, objeto. $1 es válido, mientras que objeto
+
+        //- La cadena no tiene que ser un identificador válido; puede tener cualquier valor, por ejemplo "1foo", "! bar!", o incluso " " (un espacio). Esto hace exactamente lo mismo que el ejemplo anterior
