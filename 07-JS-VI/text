@@ -1,0 +1,4 @@
+ ==================
+ Funciones Callback
+ ==================
+ * la forma de crear una función callback es pasándola como parámetro a otra función, y luego llamarla de vuelta justo después de que haya ocurrido algo o se haya completado alguna tarea.
