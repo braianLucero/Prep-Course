@@ -1,0 +1,6 @@
+* `prototype`
+* _Constructors_ (de Clases)
+
+ - El prototipo es un objeto que está asociado con todas las funciones y objetos de forma predeterminada en JavaScript, donde la propiedad del prototipo de la función es accesible y modificable y la propiedad del prototipo del objeto (también conocido como atributo) no es visible. Cada función incluye un objeto prototipo por defecto.
+
+ - El constructor, como su nombre indica, es el código que construye y configura un objeto cuando se crea con new . Todas las clases tienen un constructor, si no escribimos nada dentro de class se crea por defecto un constructor vacío.
