@@ -1,0 +1,23 @@
+  h1 {
+    color: #990000;
+}
+h3{
+    color: #aecc04;
+}
+h4 {
+    color: #020070;
+}
+p {
+    color: #7a0000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+ img {
+     padding: 50px;
+    height: 600px;
+    width: 500px;
+}
+
+body{
+    background: #876f92 ;
+}
